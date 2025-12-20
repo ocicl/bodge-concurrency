@@ -1,0 +1,9 @@
+* bodge-concurrency
+
+Concurrency utilities for the bodge game engine ecosystem.
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/borodust/bodge-concurrency.git |
+| commit  | d62553d                                              |
+| systems | bodge-concurrency                                    |
+|---------+------------------------------------------------------|
